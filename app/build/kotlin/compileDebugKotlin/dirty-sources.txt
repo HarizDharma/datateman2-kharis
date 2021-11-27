@@ -1,0 +1,7 @@
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/MainActivity.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/ViewPagerAdapter.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/GithubFragment.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/MyFriendAdapter.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/ProfilFragment.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/Myfriend.kt
+/home/krypton/AndroidStudioProjects/DataTeman/app/src/main/java/com/example/datateman/MyFriendsFragment.kt
